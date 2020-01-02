@@ -1,4 +1,4 @@
-# :trophy:map: Assignment 2 MapReduce Algorithm :trophy:
+# :trophy::map: Assignment 2 MapReduce Algorithm :trophy:
 
 
 
