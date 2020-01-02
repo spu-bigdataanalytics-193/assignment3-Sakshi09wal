@@ -1,4 +1,4 @@
-# :trophy:girl: Assignment 2 MapReduce Algorithm :trophy:
+# :trophy::girl: Assignment 2 MapReduce Algorithm :trophy:
 
 
 
@@ -17,6 +17,7 @@ You can find more information about this dataset in the website of [Statistical 
 
 ## About Map-Reduce Algorithm :
 MapReduce implements various mathematical algorithms to divide a task into small parts and assign them to multiple systems.It is a software framework for processing large datasets using several machines.The Objective of MapReduce Algorithm is to map data into (key, value) pairs and reduce all pairs with same key.
+
 MapReduce has 3 steps:
 Mapping step – Produce intermediate results & associates with an output key
 Shuffling step – Group intermediate results with same output key
