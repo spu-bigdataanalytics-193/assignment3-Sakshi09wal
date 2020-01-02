@@ -15,13 +15,15 @@ Each row represents an individual flight record with details of that flight in t
 You can find more information about this dataset in the website of [Statistical Computing](http://stat-computing.org/dataexpo/2009/).
 
 
-## About Map-Reduce Algorithm :MapReduce implements various mathematical algorithms to divide a task into small parts and assign them to multiple systems.It is a software framework for processing large datasets using several machines.The Objective of MapReduce Algorithm is to map data into (key, value) pairs and reduce all pairs with same key.
+## About Map-Reduce Algorithm :
+MapReduce implements various mathematical algorithms to divide a task into small parts and assign them to multiple systems.It is a software framework for processing large datasets using several machines.The Objective of MapReduce Algorithm is to map data into (key, value) pairs and reduce all pairs with same key.
 MapReduce has 3 steps:
 Mapping step – Produce intermediate results & associates with an output key
 Shuffling step – Group intermediate results with same output key
 Reducing step – Process groups of intermediate results with same output key
 
-## Instructions for running the program using Algorithm:The goal is to find the carrier counts and  I used two ways of getting counts of carriers:
+## Instructions for running the program using Algorithm:
+The goal is to find the carrier counts and  I used two ways of getting counts of carriers:
 
 1.Here first I will do the code like Serial way requires to loop through all of the records and update one by one.
 
