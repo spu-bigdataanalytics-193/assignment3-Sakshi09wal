@@ -26,7 +26,7 @@ Reducing step – Process groups of intermediate results with same output key
 ## Instructions for running the program using Algorithm:
 The goal is to find the carrier counts and  I used two ways of getting counts of carriers:
 
-1.Here first I will do the code like Serial way requires to loop through all of the records and update one by one.
+1.First we will code in a  serial way which  requires to loop through all of the records and update one by one.
 
 2.For MapReduce Algorithm way :This code is divided into 3 steps:
 
